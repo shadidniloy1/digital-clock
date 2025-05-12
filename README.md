@@ -1,6 +1,8 @@
 # digital-clock
+![Digital clock using asyncronous counter](https://github.com/user-attachments/assets/d7bda7cb-7c90-476c-9bff-3a9557d6c6dd)
+![Digital clock using syncronous counter](https://github.com/user-attachments/assets/5c58cc7a-031d-43b4-bf90-7f12dd24377b)
+
 
 |No. | Title | Link |
 | :---: | :---: | :---: |
-| 01 | Deeds files | [Link](https://github.com/shadidniloy1/digital-clock/tree/main/Deeds%20File)
-| 02 | Circuit Diagram | [Link](https://github.com/shadidniloy1/digital-clock/tree/main/circuit%20design)
+| 01 | Source files | [Link](https://github.com/shadidniloy1/digital-clock/tree/main/src)
